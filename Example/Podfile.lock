@@ -1,0 +1,16 @@
+PODS:
+  - XYMediEventAdapter (1.0.0)
+
+DEPENDENCIES:
+  - XYMediEventAdapter (from `../`)
+
+EXTERNAL SOURCES:
+  XYMediEventAdapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYMediEventAdapter: 2d884c0b3161d2eaf61f3830988d48a6949184ba
+
+PODFILE CHECKSUM: b72f0e2a327f23b9d9f3a62ffcc9239edd5a32c6
+
+COCOAPODS: 1.10.1
